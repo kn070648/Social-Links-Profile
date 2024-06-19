@@ -9,6 +9,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
   - [Overview](#overview)
     - [The challenge](#the-challenge)
     - [Demo](#demo)
+    - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
     - [Continued development](#continued-development)
@@ -25,6 +26,10 @@ Users should be able to:
 ### Demo
 
 ![](./design/active-states.jpg)
+
+### Links
+
+- Live Site URL: [https://kn070648.github.io/Social-Links-Profile/]
 
 ## My process
 
